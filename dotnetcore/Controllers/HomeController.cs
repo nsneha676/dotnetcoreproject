@@ -15,6 +15,7 @@ namespace dotnetcore.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            //lets do some changes
             _logger = logger;
         }
 
