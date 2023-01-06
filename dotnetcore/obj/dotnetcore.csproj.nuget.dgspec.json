@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nehasingh03\\Desktop\\neha-singh\\dotnetcore\\dotnetcore\\dotnetcore.csproj": {}
+    "C:\\Users\\nehasingh03\\Desktop\\neha-singh\\dotnetcore\\nsneha676\\dotnetcoreproject\\dotnetcore\\dotnetcore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nehasingh03\\Desktop\\neha-singh\\dotnetcore\\dotnetcore\\dotnetcore.csproj": {
+    "C:\\Users\\nehasingh03\\Desktop\\neha-singh\\dotnetcore\\nsneha676\\dotnetcoreproject\\dotnetcore\\dotnetcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nehasingh03\\Desktop\\neha-singh\\dotnetcore\\dotnetcore\\dotnetcore.csproj",
+        "projectUniqueName": "C:\\Users\\nehasingh03\\Desktop\\neha-singh\\dotnetcore\\nsneha676\\dotnetcoreproject\\dotnetcore\\dotnetcore.csproj",
         "projectName": "dotnetcore",
-        "projectPath": "C:\\Users\\nehasingh03\\Desktop\\neha-singh\\dotnetcore\\dotnetcore\\dotnetcore.csproj",
+        "projectPath": "C:\\Users\\nehasingh03\\Desktop\\neha-singh\\dotnetcore\\nsneha676\\dotnetcoreproject\\dotnetcore\\dotnetcore.csproj",
         "packagesPath": "C:\\Users\\nehasingh03\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nehasingh03\\Desktop\\neha-singh\\dotnetcore\\dotnetcore\\obj\\",
+        "outputPath": "C:\\Users\\nehasingh03\\Desktop\\neha-singh\\dotnetcore\\nsneha676\\dotnetcoreproject\\dotnetcore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
